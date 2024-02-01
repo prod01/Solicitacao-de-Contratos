@@ -7,7 +7,7 @@ function createDataset(fields, constraints, sortFields) {
 	dataset.addColumn("NOME");
 	dataset.addColumn("CODIGO");
 
-	var codSentenca = '117';
+	var codSentenca = '121';
 	var codColigada = '0';
 	var codAplicacao = 'G';
 
